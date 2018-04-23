@@ -1,0 +1,8 @@
+<div data-options="dxView : { name: 'Index', layout: 'navbar' } ">
+    <div data-options="dxContent : { targetPlaceholder: 'content' } ">
+        <div data-bind="dxList: { dataSource: dataSource }">
+            <div data-options="dxTemplate : { name: 'item'} " data-bind="text: name, style: { backgroundColor: rgb, color: 'white'}">
+            </div>
+        </div>
+    </div>
+</div>
