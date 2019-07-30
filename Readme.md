@@ -1,6 +1,6 @@
 # dxList - How to bind the style property to the data source field
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4809)**
+**[[Run Online]](https://codecentral.devexpress.com/e4809/)**
 <!-- run online end -->
 
 
